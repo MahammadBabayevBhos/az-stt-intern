@@ -1,0 +1,22 @@
+# Core Machine Learning & Audio Processing
+torch>=2.0.0
+torchaudio
+librosa
+soundfile
+
+# Hugging Face Ecosystem
+transformers>=4.34.0
+datasets>=2.14.0
+accelerate>=0.23.0
+evaluate>=0.4.0
+
+# Fine-tuning & Optimization (PEFT/LoRA)
+peft>=0.5.0
+bitsandbytes>=0.41.1
+
+# Metrics & Utilities
+jiwer
+scipy
+pandas
+numpy
+tqdm
